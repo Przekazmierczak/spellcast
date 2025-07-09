@@ -5,6 +5,8 @@
 This is a Flask web application for finding words on a Discord's Spellcast game board. It utilizes a Trie data structure for efficient word lookup.
 Rules: https://discord.fandom.com/wiki/SpellCast
 
+![Spellcast](https://github.com/user-attachments/assets/6f7e9906-2392-46c5-bbf7-b0ffa18f792d)
+
 ## Features
 
 - **Trie Data Structure:** The application uses a Trie to store and search for valid Scrabble words.
